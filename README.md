@@ -1,2 +1,2 @@
 # vigilant-funicular
-LoRa - Receiver Sample Code 
+LoRa & IoT Based Monitoring System For PV Power Plant 
